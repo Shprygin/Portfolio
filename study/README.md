@@ -4,4 +4,6 @@
 
 📚 Time Series - Final project for Time Series course. Working model for BTC exchange rate forecasting
 
+📚 Multivariate Data Analysis - Final project for Multivariate course. EDA, clustering by variables and variable shrinkage (component creating) techiques employed
+
 📚 Other - Side projects
