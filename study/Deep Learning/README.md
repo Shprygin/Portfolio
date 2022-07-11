@@ -2,7 +2,7 @@
 
 🌐 HW1 - First project on comparing logreg, decision forest and NN performance on binary classification task with tabular numeric exogenous variables.
 
-🌐 HW2 - 
+🌐 HW2 - Second project where I try PyTorch and do backpropagation manually / with AutoGrad
 
 🌐 HW3 -
 
