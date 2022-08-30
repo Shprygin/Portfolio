@@ -8,7 +8,6 @@ The instruments I use the most include: Python, STATA, SQL, Orange, etc.
 
 Table of contents
 ```
-
 📚 **study** - different projects I did in my uni. They are all done on real data and I tries to make them as appliable to real tasks as possible. 
 
 👯 **Extraverersion** - A project to build a neural network to determine the user's extraversion.  At the moment, the code for feature extraction is finished, parts of which are just in the folder. At the moment, a toy-example neural network is being developed
