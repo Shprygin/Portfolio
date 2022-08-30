@@ -8,13 +8,13 @@ The instruments I use the most include: Python, STATA, SQL, Orange, etc.
 
 Table of contents
 
-📚 *study* - different projects I did in my uni. They are all done on real data and I tries to make them as appliable to real tasks as possible. 
+📚 **study** - different projects I did in my uni. They are all done on real data and I tries to make them as appliable to real tasks as possible. 
 
-👯 *Extraverersion* - A project to build a neural network to determine the user's extraversion.  At the moment, the code for feature extraction is finished, parts of which are just in the folder. At the moment, a toy-example neural network is being developed
+👯 **Extraverersion** - A project to build a neural network to determine the user's extraversion.  At the moment, the code for feature extraction is finished, parts of which are just in the folder. At the moment, a toy-example neural network is being developed
 
-🤬 *Bullies* - a project to identify bullies out of users who are members of a support group. At the moment, the stage of data parsing and the development of a methodology for determining potential bullies (draft: by groups, music, pictures, etc.)
+🤬 **Bullies** - a project to identify bullies out of users who are members of a support group. At the moment, the stage of data parsing and the development of a methodology for determining potential bullies (draft: by groups, music, pictures, etc.)
 
-🏦 *cbr* - A selection of working projects made in the Bank of Russia: automation, parsing,  data preparation.
+🏦 **cbr** - A selection of working projects made in the Bank of Russia: automation, parsing,  data preparation.
 
 
 
