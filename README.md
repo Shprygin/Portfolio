@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello! My name is Lev (Russian for Lion) and here's a storage of my projects. My goal is becoming a Product Owner one day, so I polish my analytical skills at work and university and this repository contains some.  Unluckily, the most work projet cannot be shared so I would recommend check the Study folder. Some projects are not code but reports with graphs and all necessary numbers. Since I pursue not a developer/coder career, rather than an analytical-managerial one, code for me is only an instrument, the key is analytical instruments, some of which are shown in the repository. However, you can also view the code in some projects.
+Hello! My name is Lev (Russian for Lion) and here's a repository of my projects. My goal is becoming a Product Owner one day, so I polish my analytical skills at work and university and this repository contains some.  Unluckily, the most work projet cannot be shared so I would recommend check the Study folder. Some projects are not code but reports with graphs and all necessary numbers. Since I pursue not a developer/coder career, rather than an analytical-managerial one, code for me is only an instrument, the key is analytical instruments, some of which are shown in the repository. However, you can also view the code in some projects.
 
 The instruments I use the most include: Python, STATA, SQL, Orange, etc.
 
