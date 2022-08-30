@@ -6,7 +6,6 @@ The instruments I use the most include: Python, STATA, SQL, Orange, etc.
 
 <br />
 <br />
-<br />
 
 _Table of contents_
 
