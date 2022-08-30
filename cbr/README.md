@@ -1,10 +1,11 @@
-# В этом ноубтуке содержатся проекты, сделанные мной в ЦЮ. 
+# This folder contains projects done for Russian Central Bank
 
-###### Аутпут и пути файлов убраны из сображения конфиденциальность
+###### As for NDAs, outputs and file paths were deleted
 
-💰 F1 - мерджинг данных более 200от файлов, структурированно раскиданных по папке (os, pandas)
+💰 F1 - merging data of more than 200 files contained structurally (os, pandas).
 
-💰 F2 - автоматизация вычисления треуголника (метод расчета страхового риска) (panas, numpy)
+💰 F2 - automatization of triangle calculation (one of actuary methods) (pandas, numpy)
 
-💰 Парсинг - прасинг данных актуариев из открытых источников (BeautifulSoup)
+💰 Парсинг - parsing data about Russian actuary professionals from open sources (BeautifulSoup)
+
 
