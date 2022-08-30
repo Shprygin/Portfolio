@@ -1,5 +1,5 @@
-# Проект по определению буллеров через социальные сети.
+# Project for determing bullies with social netowrks
 
-🧢 bull_vk_likes_analyzer - интеллектуальный парсинг людей, наиболее часто лайкавших посты потенциальных жертв абьюза (персональные данные не обрабатываются и не хранятся),
+🧢 bull_vk_likes_analyzer - intellectual parsing of data on people who liked posts of potential abuse victims the most (personal data are not processed or stored),
 
-🧢 FB Badong Dong-3 - интеллектуальный парсинг людей,  которые комментировали, постили и состояли в группах ФБ по абьюзу. Для парсинга использован Selenium
+🧢 FB Badong Dong-3 - intellectual persing of people who commented, posted or followed groups in FaceBook with topics related to abuse (Selenium)
