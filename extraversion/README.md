@@ -1,10 +1,11 @@
 # DeMAS_MBTI
-В этой папке содержится код для проекта по определению экстраверсии по социальным сетям в формате ноутбуков
 
-👁 В Face analytics работа с cv2 и image
+In this folder is stored my code for determing extraversion levels with social networks data
 
-⾊ В RGB работа с Pillow
+👁 Face analytics - analyzed face data with cv2 и image
 
-🧢 В vk parsing работа с vk.api
+⾊ RGB - analyzed colours with Pillow
 
-🕵️ В YOLO работа с определением объектов на фотографиях
+🧢 vk parsing - worked with VK data with vk.api
+
+🕵️ YOLO - determined objects on fotos using YOLO NN
