@@ -19,9 +19,9 @@ Table of contents
 🏦 **cbr** - A selection of working projects made in the Bank of Russia: automation, parsing,  data preparation.
 
 
-
-
-
+<br />
+<br />
+<br />
 
 
 Привет! Меня зовут Лев, и это портфолио моих проектов.
