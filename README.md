@@ -7,6 +7,7 @@ The instruments I use the most include: Python, STATA, SQL, Orange, etc.
 
 
 Table of contents
+'''
 
 📚 **study** - different projects I did in my uni. They are all done on real data and I tries to make them as appliable to real tasks as possible. 
 
@@ -15,7 +16,7 @@ Table of contents
 🤬 **Bullies** - a project to identify bullies out of users who are members of a support group. At the moment, the stage of data parsing and the development of a methodology for determining potential bullies (draft: by groups, music, pictures, etc.)
 
 🏦 **cbr** - A selection of working projects made in the Bank of Russia: automation, parsing,  data preparation.
-
+'''
 
 
 
@@ -24,6 +25,8 @@ Table of contents
 
 Привет! Меня зовут Лев, и это портфолио моих проектов.
 
+'''
+
 👯 Extraverersion - проект по построению нейросети для определения экстраверсии юзера. Впоследствии перерастет в определение типажа по MBTI. На данный момент закончен код по feature extraction, части которого как раз и есть в папке. На данный момент идет разработка toy-example нейросети
 
 🤬 Bullies - проект по определению буллеров юзеров, состоящих в группе поддержки. На данный момент идет этап парсинга данных и разработка методологии определния потенциальных буллеров (драфотово по группам, музыке, картинкам и тд.)
@@ -31,3 +34,4 @@ Table of contents
 🏦 cbr - набор рабочих проектов, сделанных в Бaнке Poccии: автоматизация, парсинг, подготовка  данных. 
 
 📚 study - разные проекты по учебе
+'''
