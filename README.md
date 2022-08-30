@@ -8,7 +8,7 @@ The instruments I use the most include: Python, STATA, SQL, Orange, etc.
 <br />
 <br />
 
-Table of contents
+_Table of contents_
 
 📚 **study** - different projects I did in my uni. They are all done on real data and I tries to make them as appliable to real tasks as possible. 
 
