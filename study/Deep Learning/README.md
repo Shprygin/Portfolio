@@ -1,4 +1,4 @@
-**In this folder one can find my projects for the Deep Lerning Course. Here are file on working with many kinds of NN, like RNN, CNN, BERT and others**
+**In this folder one can find my projects for the Deep Lerning Course. Here are files on working with many kinds of NNs, like RNN, CNN and others**
 
 🌐 HW1 - The first project on comparing logreg, decision forest and NN performance on binary classification task with tabular numeric exogenous variables.
 
