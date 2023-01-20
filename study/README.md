@@ -7,3 +7,5 @@
 📚 Multivariate Data Analysis - Final project for Multivariate course. EDA, clustering by variables and variable shrinkage (component creating) techiques employed
 
 📚 other - Different ML projects
+
+📚 stochastics - homeworks and projects for stochastics models
