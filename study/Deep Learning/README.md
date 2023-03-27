@@ -5,3 +5,5 @@
 🌐 HW2 - The second project where I try PyTorch and do backpropagation manually / with AutoGrad
 
 🌐 HW Kaggle - The third project on building a CNN image classifier. Used transfer learning with fine-tuning and won the competition
+
+🌐 HW UDA - Project on fine tuning GPT text generating model
